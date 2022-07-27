@@ -5,9 +5,9 @@ Before submitting a PR, please check that your PR follows the guides below:
 -   [Before Submmiting PRs](before-submitting-prs.md)
 
 Submitting a PR is simple.
--    You will mark a PR ready for review by following [how to change the stage of a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request)
+-    You will mark a PR ready for review. [How to change the stage of a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request)
 -    A PR will auto-assign a reviewer
--    You can ask subject matter expert to review the PR by adding them to reviewers. [how to requesting a pull request review](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review)
+-    You can ask subject matter expert to review the PR by adding them to reviewers. [How to requesting a pull request review](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review)
 
 All conversation around the PR should be kept in the Github PR, this way we can keep conversation and data around the PR in one place. (feel free to ping people in the PR comments).
 
