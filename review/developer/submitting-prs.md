@@ -15,6 +15,6 @@ If no one has claimed your code review in a reasonable amount of time, post the 
 
 If you are requested to perform a code review
 - It is your responsibility to complete the code review in a timely manner, or
-- If you are not able to perform the code review, communicate to the PR's author and it is your (reviewer) responsiblity to find someone to take it in a timely manner.
+- If you are not able to perform the code review, communicate to the PR's author and it is your responsiblity (reviewer's responsiblity) to find someone to take it in a timely manner.
 
 More detail please refer to [The Code Reviewer's Guide](review/reviewer/index.md)
