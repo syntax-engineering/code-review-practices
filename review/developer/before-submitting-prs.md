@@ -4,7 +4,7 @@ Here are points to check out before submitting a PR
 
 ## Code
 - [ ] Code follows the
-  - Guide in of this project
+  - This project (if any) has guidelines for PR submissions
   - [Developer Guides](https://github.com/tyemill/developer-guides)
   - [Ruby Guides](https://github.com/rubocop/ruby-style-guide)
   - [Rails Guide](https://github.com/rubocop/rails-style-guide)
