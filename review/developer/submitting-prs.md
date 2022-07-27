@@ -17,4 +17,4 @@ If you are requested to perform a code review
 - It is your responsibility to complete the code review in a timely manner, or
 - If you are not able to perform the code review, communicate to the PR's author and it is your responsiblity (reviewer's responsiblity) to find someone to take it in a timely manner.
 
-More detail please refer to [The Code Reviewer's Guide](../../reviewer/)
+More detail please refer to [The Code Reviewer's Guide](../reviewer/index.md)
